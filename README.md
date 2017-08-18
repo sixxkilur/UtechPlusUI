@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="http://www.bulletlabs.org/7d2d"><img src="(https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/modlogo.png?raw=true" alt="HQ" width="200"></a>
+  <a href="http://www.bulletlabs.org/7d2d"><img src="(https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true" alt="HQ" width="200"></a>
 
-  !![mod in use](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
+  ![mod in use](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
   <br>
   UtechPlusUI PC mod for 7 Days to Die (7D2D)
   <br>
@@ -21,9 +21,9 @@
   </a>
 </p>
 <br>
-!![Screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true "Behemoth")
+![Screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true "Behemoth")
 
-!![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true )
+![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true )
 
 ## Key Features
 
