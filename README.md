@@ -2,7 +2,7 @@
 
 <h4 align="center">A Combination of modifications made by me and 3rd party contributors. <a href="http://www.bulletlabs.org/7d2d" target="_blank"> UtechPlusUI</a>.</h4>
 <br>
-<align="center" img src="https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true" width="480" height="100">
+<h4 align="center"> img src="https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true" width="480" height="100"</h4>
 </br>
 
 ![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
@@ -65,7 +65,7 @@ MIT
 > GitHub [@SiXxKilLuR](https://github.com/sixxkilur) &nbsp;&middot;&nbsp;
 > Twitter [@SiXxKilLuR](https://twitter.com/SiXxKilLuR)
 
-![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=plastic)(https://github.com/sixxkilur/UtechPlusUI/releases)
+![Github All Releases](https://img.shields.io/github/downloads/sixxkilur/utechplusui/total.svg?style=plastic)(https://github.com/sixxkilur/UtechPlusUI/releases)
 
 <p align="center">
 <a href="http://store.steampowered.com/app/251570/7_Days_to_Die/"> <img src="https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/7d2d.png">
