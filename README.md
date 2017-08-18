@@ -2,7 +2,7 @@
   <br>
   <!-- <a href="http://www.bulletlabs.org/7d2d"><img src="/../media/utechplusui/img/modlogo.png" alt="HQ" width="200"></a> -->
 
-  ![mod in use](/../media/UtechPlusUI/img/utechplusui.jpg?raw=true "UtechPlusUI")
+  !![mod in use](/../media/UtechPlusUI/img/utechplusui.jpg?raw=true "UtechPlusUI")
   <br>
   UtechPlusUI PC mod for 7 Days to Die (7D2D)
   <br>
@@ -21,7 +21,7 @@
   </a>
 </p>
 <br>
-![Screenshot](/../media/UtechPlusUI/img/behemoth.jpg?raw=true "Behemoth")
+!![Screenshot](/../media/UtechPlusUI/img/behemoth.jpg?raw=true "Behemoth")
 
 <!![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/img/markdownify.gif) -->
 
