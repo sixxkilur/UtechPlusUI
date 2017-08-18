@@ -1,16 +1,9 @@
-<h1 align="center">
-  <br>
-  <a href="http://www.bulletlabs.org/7d2d"><img src="(https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true" alt="HQ" width="200"></a>
-
-  ![mod in use](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
-  <br>
-  UtechPlusUI PC mod for 7 Days to Die (7D2D)
-  <br>
-</h1>
 
 <h4 align="center">A Combination of modifications made by me and 3rd party contributors<a href="http://www.bulletlabs.org/7d2d" target="_blank"> UtechPlusUI</a>.</h4>
 
 <p align="center">
+![](https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true "UtechPlusUI")
+  ![mod in use](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
   <a href="https://utechplusui">
     <img src="https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/7d2d.png" alt="game logo">
   </a>
