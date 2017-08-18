@@ -1,12 +1,13 @@
 
 
-<h4 align="center">A Combination of modifications made by me and 3rd party contributors<a href="http://www.bulletlabs.org/7d2d" target="_blank"> UtechPlusUI</a>.</h4>
+<h4 align="center">A Combination of modifications made by me and 3rd party contributors. <a href="http://www.bulletlabs.org/7d2d" target="_blank"> UtechPlusUI</a>.</h4>
 <br>
-![](https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true)
 <img src="https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true" width="480" height="100">
-![mod in use](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI") <a href="https://utechplusui">
+<br>
+![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
+<br>
 ![Screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true "Behemoth")
-
+<br>
 ![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true )
 
 ## Key Features
@@ -21,9 +22,9 @@
 
 ## How To D/L and install
 
-To clone and install this 7D2D mod pack, you'll need [7 Days to Die vA16.2(B7)](http://store.steampowered.com/app/251570/7_Days_to_Die/) and [File archive utility (that supports .zip and or .7z "Recommend Bandizip it's free")](https://www.bandisoft.com/bandizip/) installed on your computer.
+To clone and install this 7D2D mod pack, you'll need [7 Days to Die] vA16.2(B7)(http://store.steampowered.com/app/251570/7_Days_to_Die/) and a File archive utility that supports .zip and or .7z "Recommend [Bandizip] it's free")](https://www.bandisoft.com/bandizip/) installed on your computer.
 
-Obtain mod pack
+# Obtain mod pack
 ![# Download] (https://github.com/sixxkilur/UtechPlusUI/releases)
 
 # Extract mod pack to 7D2D main directory
@@ -63,9 +64,9 @@ MIT
 > GitHub [@SiXxKilLuR](https://github.com/sixxkilur) &nbsp;&middot;&nbsp;
 > Twitter [@SiXxKilLuR](https://twitter.com/SiXxKilLuR)
 
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=plastic)](https://github.com/sixxkilur/UtechPlusUI/releases)
+![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=plastic)(https://github.com/sixxkilur/UtechPlusUI/releases)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/7d2d.png" alt="game logo">
+<a href="http://store.steampowered.com/app/251570/7_Days_to_Die/"> <img src="https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/7d2d.png">
 <a href="https://www.paypal.me/sixxkillur"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg"></a>
 </p>
