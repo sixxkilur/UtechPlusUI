@@ -2,12 +2,13 @@
 
 <h4 align="center">A Combination of modifications made by me and 3rd party contributors. <a href="http://www.bulletlabs.org/7d2d" target="_blank"> UtechPlusUI</a>.</h4>
 <br>
-<img src="https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true" width="480" height="100">
-<br>
+<align="center" img src="https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true" width="480" height="100">
+</br>
+
 ![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
-<br>
+
 ![Screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true "Behemoth")
-<br>
+
 ![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true )
 
 ## Key Features
