@@ -16,7 +16,7 @@
 * Modified DLL show all players on map.
 * Modified DLL enabled Creative menu
 * Modified DLL enabled Debug menu
-#### [Changelog](mods/utech/changelog.md)
+#### [Changelog](mods/utech/Changelog.md)
 
 ## How To D/L and install
 To download and install this 7D2D mod pack, you'll need [7 Days to Die] vA16.2(B7)(http://store.steampowered.com/app/251570/7_Days_to_Die/) and a File archive utility that supports .zip and or .7z "Recommend [Bandizip] it's free")](https://www.bandisoft.com/bandizip/) installed on your computer.
