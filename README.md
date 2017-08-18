@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <!-- <a href="http://www.bulletlabs.org/7d2d"><img src="/../media/utechplusui/img/modlogo.png" alt="HQ" width="200"></a> -->
+  <a href="http://www.bulletlabs.org/7d2d"><img src="(https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/modlogo.png?raw=true" alt="HQ" width="200"></a>
 
-  !![mod in use](/../media/UtechPlusUI/img/utechplusui.jpg?raw=true "UtechPlusUI")
+  !![mod in use](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
   <br>
   UtechPlusUI PC mod for 7 Days to Die (7D2D)
   <br>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://utechplusui">
-    <img src="/../media/UtechPlusUI/img/7d2d.png" alt="game logo">
+    <img src="https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/7d2d.png" alt="game logo">
   </a>
   <a href="https://gitter.im/"><img src="https://badges.gitter.im/"></a>
   <a href="https://saythanks.io/"> <img src="https://img.shields.io/badge/SayThanks.io-">
@@ -21,13 +21,13 @@
   </a>
 </p>
 <br>
-!![Screenshot](/../media/UtechPlusUI/img/behemoth.jpg?raw=true "Behemoth")
+!![Screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true "Behemoth")
 
-<!![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/img/markdownify.gif) -->
+!![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true )
 
 ## Key Features
 
-* Extended storage - Player inventory, misc containers & mini bike.
+* Extended storage - Player inventory, misc. containers & mini bike.
 * UI element placement - Moved & resized elements for a better experience.
 * UI color enhancements - Added custom color to game supported style class.
 * Modified DLL CreativeOn with achievements.
@@ -37,11 +37,10 @@
 
 ## How To D/L and install
 
-To clone and install this 7D2D mod pack, you'll need [7 Days to Die v16.2(B7)](http://store.steampowered.com/app/251570/7_Days_to_Die/) and [File archive utility (that suppoerts .zip and or .7z "Recommend Bandizip it's free")](https://www.bandisoft.com/bandizip/) installed on your computer.
+To clone and install this 7D2D mod pack, you'll need [7 Days to Die vA16.2(B7)](http://store.steampowered.com/app/251570/7_Days_to_Die/) and [File archive utility (that supports .zip and or .7z "Recommend Bandizip it's free")](https://www.bandisoft.com/bandizip/) installed on your computer.
 
 Obtain mod pack
-# Download latest release
-https://github.com/sixxkilur/UtechPlusUI/releases
+!![# Download] (https://github.com/sixxkilur/UtechPlusUI/releases)
 
 # Extract mod pack to 7D2D main directory
 Example F:\7 Days To Die_16.B2\
@@ -53,11 +52,11 @@ Run game with EAC disabled (profit)
 
 This mod package uses code from several 3rd party mods.
 
-- [stedman420's SimpleUIPlus](https:///)
-- [Pringlz46290's PZHud](https:///)
-- [sovicUA's 7dtd-ui-mod](http:///)
+- [stedman420's SimpleUIPlus](https://7daystodie.com/forums/showthread.php?67506-Simple-UI-Plus/)
+- [Pringlz46290's PZHud](http://www.nexusmods.com/7daystodie/mods/77/?)
+- [sovicUA's 7dtd-ui-mod](https://github.com/sovicUA/7dtd-ui-mod)
 - [?](http:///)
-- ?? [here](https:///)
+- [??](https:///)
 - [??](https:///)
 
 ## Related
