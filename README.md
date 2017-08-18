@@ -9,7 +9,6 @@
 <!-- ![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true) -->
 
 ## Key Features
-
 * Extended storage - Player inventory, misc. containers & mini bike.
 * UI element placement - Moved & resized elements for a better experience.
 * UI color enhancements - Added custom color to game supported style class.
@@ -17,20 +16,18 @@
 * Modified DLL show all players on map.
 * Modified DLL enabled Creative menu
 * Modified DLL enabled Debug menu
-
-# See [Changelog](mods/utech/changelog.md)
+#### [Changelog](mods/utech/changelog.md)
 
 ## How To D/L and install
+To download and install this 7D2D mod pack, you'll need [7 Days to Die] vA16.2(B7)(http://store.steampowered.com/app/251570/7_Days_to_Die/) and a File archive utility that supports .zip and or .7z "Recommend [Bandizip] it's free")](https://www.bandisoft.com/bandizip/) installed on your computer.
 
-To clone and install this 7D2D mod pack, you'll need [7 Days to Die] vA16.2(B7)(http://store.steampowered.com/app/251570/7_Days_to_Die/) and a File archive utility that supports .zip and or .7z "Recommend [Bandizip] it's free")](https://www.bandisoft.com/bandizip/) installed on your computer.
-
-# Obtain mod pack
+## Obtain mod pack
 ![Download](https://github.com/sixxkilur/UtechPlusUI/releases)
 
-# Extract mod pack to 7D2D main directory
+Extract mod pack to 7D2D main directory
 Example F:\7 Days To Die_16.B2\
 
-# To use in game
+## To use in game
 Run game with EAC disabled (profit)
 
 ## Credits
