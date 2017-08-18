@@ -2,10 +2,7 @@
 <h4 align="center">A Combination of modifications made by me and 3rd party contributors<a href="http://www.bulletlabs.org/7d2d" target="_blank"> UtechPlusUI</a>.</h4>
 
 <p align="center">
-![](https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true "UtechPlusUI")
-  ![mod in use](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
-  <a href="https://utechplusui">
-    <img src="https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/7d2d.png" alt="game logo">
+<img src="https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/7d2d.png" alt="game logo">
   </a>
   <a href="https://gitter.im/"><img src="https://badges.gitter.im/"></a>
   <a href="https://saythanks.io/"> <img src="https://img.shields.io/badge/SayThanks.io-">
@@ -14,6 +11,9 @@
   </a>
 </p>
 <br>
+![](https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true "UtechPlusUI")
+  ![mod in use](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
+  <a href="https://utechplusui">
 ![Screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true "Behemoth")
 
 ![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true )
