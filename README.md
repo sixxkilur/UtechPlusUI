@@ -1,7 +1,5 @@
-<p align="center">
-
 <h4 align="center">A Combination of modifications made by me and 3rd party contributors. <a href="http://www.bulletlabs.org/7d2d" target="_blank"> UtechPlusUI</a>.</h4>
-
+<p align="center">
 ![screenshot](https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true)
 </p>
 ![screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI")
@@ -25,7 +23,7 @@
 To clone and install this 7D2D mod pack, you'll need [7 Days to Die] vA16.2(B7)(http://store.steampowered.com/app/251570/7_Days_to_Die/) and a File archive utility that supports .zip and or .7z "Recommend [Bandizip] it's free")](https://www.bandisoft.com/bandizip/) installed on your computer.
 
 # Obtain mod pack
-![# Download] (https://github.com/sixxkilur/UtechPlusUI/releases)
+![Download](https://github.com/sixxkilur/UtechPlusUI/releases)
 
 # Extract mod pack to 7D2D main directory
 Example F:\7 Days To Die_16.B2\
@@ -58,13 +56,12 @@ This mod package uses code from several 3rd party mods.
 MIT
 
 ---
-
 > [bulletlabs.org](https://www.bulletlabs.org) &nbsp;&middot;&nbsp;
 > This Project [UtechPlusUI](https://sixxkilur.github.io/UtechPlusUI/)
 > GitHub [@SiXxKilLuR](https://github.com/sixxkilur) &nbsp;&middot;&nbsp;
 > Twitter [@SiXxKilLuR](https://twitter.com/SiXxKilLuR)
 <p align="center">
-![Github All Releases](https://img.shields.io/github/downloads/sixxkilur/utechplusui/total.svg?style=plastic)
+<img src="https://img.shields.io/github/downloads/sixxkilur/utechplusui/total.svg?style=plastic">
 <a href="http://store.steampowered.com/app/251570/7_Days_to_Die/"> <img src="https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/7d2d.png">
 <a href="https://www.paypal.me/sixxkillur"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg"></a>
 </p>
