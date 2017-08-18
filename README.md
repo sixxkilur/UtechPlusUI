@@ -18,7 +18,7 @@
 * Modified DLL enabled Creative menu
 * Modified DLL enabled Debug menu
 
-# See [Changelog](/mods/utech/changelog.md)
+# See [Changelog](mods/utech/changelog.md)
 
 ## How To D/L and install
 
