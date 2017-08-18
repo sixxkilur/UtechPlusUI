@@ -1,13 +1,16 @@
-##Changelog:
+# Changelog:
 
-#8/9/2017 4:51:46 PM Blocks.xml
+## Blocks.xml
+### 8/9/2017 4:51:46 PM
 	World:
 		Asphalt
-			.Added walkon heal buff
-		8/15/2017 11:11:36 AM
+			.Added walk-on heal buff
+### 8/15/2017 11:11:36 AM
 			.Added ??? code for junction block (hide wires)
 
-#8/9/2017 4:52:26 PM Items.xml
+## Items.xml
+### 8/9/2017 4:52:26 PM
+
 	Weapons:
 		Gun stats:
 			44magnum
@@ -70,19 +73,20 @@
 			.Repairable desertGround,asphalt,dirt,sand,gravel
 
 	Clothing:
-		mininghelmet
-	 		.New black minning helmet
-	 		.Added insualtion -30 to combat desert overheating
-	 		.Added 100% resitance to all common environment effects.
+		mining helmet
+	 		.New black mining helmet
+	 		.Added insulation -30 to combat desert overheating
+	 		.Added 100% resistance to all common environment effects.
 
 
 		blackpuffercoat
 			.Added insualation +40 to combat freezing
 
-		8/15/2017 11:10:28 AM
-		.Added ??? code for realworking faucets and oven			
+### 8/15/2017 11:10:28 AM
+		.Added ??? code for real working faucets and oven			
 
-#8/9/2017 4:52:58 PM Progression.xml
+## Progression.xml
+### 8/9/2017 4:52:58 PM
 	Stats:
 		Playerstats
 			.Max level
@@ -90,24 +94,28 @@
 			.Skill cost
 			.Skill levels (need work)
 
-#8/9/2017 4:53:13 PM Buffs.xml
+## Buffs.xml
+### 8/9/2017 4:53:13 PM
 	Buffs:
 		.AsphaltBoost heal player
 		.Gills breath under water (n/w)
 
-#8/9/2017 5:24:07 PM EntityClasses.xml
+## EntityClasses.xml
+### 8/9/2017 5:24:07 PM
 	Player:
-		.No longer drops iems on death.
+		.No longer drops items on death.
 
-#8/10/2017 3:31:46 AM Xui.xml
+## Xui.xml
+### 8/10/2017 3:31:46 AM
 	UIloading:
 		.Added Pringlz46290's PZHud's UI code
 		.Added stedman420's SmartUIPlus code
 		.Added sovicUA's 7dtd-ui-mod code
-	#8/15/2017 11:09:26 AM
-		.Added ??? code for realworking faucets and oven
+### 8/15/2017 11:09:26 AM
+		.Added ??? code for real working faucets and oven
 
-#8/10/2017 3:34:01 AM Windows.xml
+## Windows.xml
+### 8/10/2017 3:34:01 AM
 	UI:
 		.Added Pringlz46290's PZHud's code
 		.Added stedman420's SimpleUIPlus code
@@ -116,19 +124,22 @@
 		.Modified UI elements size and positions
 		.Modified UI elements colors
 
-#8/10/2017 4:16:38 AM Styles.xml
+## Styles.xml
+### 8/10/2017 4:16:38 AM
 	UI:
 		.Added sovicUA's 7dtd-ui-mod code
 		.Added custom colors				
 
-#8/10/2017 3:41:21 AM Assembly-CSharp
+## Assembly-CSharp
+### 8/10/2017 3:41:21 AM
 	Files:
-		.Included SimpleUIPlus DLL's for the exspanded storage slots and UI support along with the debug menu features.
-		.Included All relevent files from each of the pre mentioned mods
-		.Included All Relevent stock files modified to enhance gameplay
+		.Included SimpleUIPlus DLL's for the expanded storage slots and UI support along with the debug menu features.
+		.Included All relevant files from each of the pre mentioned mods
+		.Included All Relevant stock files modified to enhance gameplay
 		.Included additional files for custom elements
-	#8/15/2017 11:03:32 AM
-		.Modified DLL CreativeOn with acheivements
-		.Modifed DLL show all players on map
-		.Modifed DLL enabled Creative menu
+
+### 8/15/2017 11:03:32 AM
+		.Modified DLL CreativeOn with achievements
+		.Modified DLL show all players on map
+		.Modified DLL enabled Creative menu
 		.Modified DLL enabled Debug menu
