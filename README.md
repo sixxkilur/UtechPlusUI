@@ -1,7 +1,11 @@
 
 <h4 align="center">A Combination of modifications made by me and 3rd party contributors<a href="http://www.bulletlabs.org/7d2d" target="_blank"> UtechPlusUI</a>.</h4>
 <br>
+<<<<<<< HEAD
 ![](https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true "Logo") {:height="50%" width="50%"}
+=======
+![](https://github.com/sixxkilur/UtechPlusUI/blob/media/img/modlogo.png?raw=true "Logo")
+>>>>>>> 2dba71183d348c2f674c88673cab2a78f86421de
 ![mod in use](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/utechplusui.jpg?raw=true "UtechPlusUI") <a href="https://utechplusui">
 ![Screenshot](https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/behemoth.jpg?raw=true "Behemoth")
 
@@ -60,9 +64,20 @@ MIT
 > This Project [UtechPlusUI](https://sixxkilur.github.io/UtechPlusUI/)
 > GitHub [@SiXxKilLuR](https://github.com/sixxkilur) &nbsp;&middot;&nbsp;
 > Twitter [@SiXxKilLuR](https://twitter.com/SiXxKilLuR)
+<<<<<<< HEAD
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/7d2d.png" alt="game logo">
 [![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg?style=plastic)](https://github.com/sixxkilur/UtechPlusUI/releases)
 <a href="https://www.paypal.me/sixxkillur"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg"></a>
+=======
+<p align="center">
+<img src="https://raw.githubusercontent.com/sixxkilur/utechplusui/media/img/7d2d.png" alt="game logo">
+  </a>
+  <a href="https://gitter.im/"><img src="https://badges.gitter.im/"></a>
+  <a href="https://saythanks.io/"> <img src="https://img.shields.io/badge/SayThanks.io-">
+  </a>
+  <a href="https://www.paypal.me/"><img src="https://img.shields.io/badge/$-donate-&amp;style=flat">
+  </a>
+>>>>>>> 2dba71183d348c2f674c88673cab2a78f86421de
 </p>
